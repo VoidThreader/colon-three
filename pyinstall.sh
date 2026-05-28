@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "assets;assets" --icon=assets/colonthree.ico --hidden-import encodings colonthree.pyw
